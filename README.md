@@ -40,7 +40,7 @@
 
 ## 🏆 My achievements:
 
-Graduated from the RS School Frontend Development program.
+Graduated from the RS School Frontend Development program. Course schedule is available [here](https://github.com/rolling-scopes-school/js-fe-course-en).
 Acted as a team lead for the final project, coordinating team efforts, managing workflow, and leading the project to a successful defense.
 
 ## 💻 I know how it works:
@@ -120,6 +120,18 @@ Acted as a team lead for the final project, coordinating team efforts, managing 
     <td>
       <span>📄 <b>"Endpoint Explorer"</b> the app (React)</span><br /><br />
       <a href="https://github.com/SunSundr/rest-client-app/tree/develop">Link to code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://react-2025-q3-f3l4de4al-jevgenis-projects-84ef6cde.vercel.app/" target="_blank">
+       <kbd><img src="./assets/img/rs-school-react-app.jpg" width="480" ></kbd>
+      </a>
+    </td>
+    <td>
+      <span>📄 <b>"Star Wars Hero"</b> the app (React)</span><br /><br />
+      <a href="https://github.com/webis-dev/REACT2025Q3/tree/nextjs-ssr">Link to code</a>
     </td>
   </tr>
 
