@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-## ❗ My name is Jevgeni and I have a great interest in the field of web development and I hope that my desire to keep learning will help me become a demand front-end developer.
+## ❗ My name is Jevgeni and I have a great interest in the field of web development and I hope that my desire to keep learning will help me become a demand full-stack developer.
 
 **Courses:**
 
@@ -77,7 +77,7 @@ Acted as a team lead for the final project, coordinating team efforts, managing 
 <table align="center">
   <tr>
     <td>
-      <a href="webis-2022-rs-tandem.netlify.app" target="_blank">
+      <a href="https://webis-2022-rs-tandem.netlify.app" target="_blank">
        <kbd><img src="./assets/img/dominator.jpg" width="480" ></kbd>
       </a>
     </td>
@@ -89,7 +89,7 @@ Acted as a team lead for the final project, coordinating team efforts, managing 
 
   <tr>
     <td>
-      <a href="webis-2022-fun-chat.netlify.app" target="_blank">
+      <a href="https://webis-2022-fun-chat.netlify.app" target="_blank">
        <kbd><img src="./assets/img/fun-chat.jpg" width="480" ></kbd>
       </a>
     </td>
